@@ -8,3 +8,8 @@ body {
     text-align: center;
     left: 0 auto;
 }
+
+.subtittle {
+    background-color: black;
+    color: white;
+}
